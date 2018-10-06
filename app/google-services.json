@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "570795881764",
+    "firebase_url": "https://push-auth-c3402.firebaseio.com",
+    "project_id": "push-auth-c3402",
+    "storage_bucket": "push-auth-c3402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570795881764:android:cd3376f0335cf4ef",
+        "android_client_info": {
+          "package_name": "com.vladyslav.pushauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570795881764-a01fabs8nhkqmh6suv3khm1rrnp4k3pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vladyslav.pushauth",
+            "certificate_hash": "57d8c0573cd87b191c107487b6b01c7fdb264fcc"
+          }
+        },
+        {
+          "client_id": "570795881764-n7rslavmlek3hk30aeemi38mra13so3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiopH8EHHYBurVgPEEYC87RG_BWwIVZoY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570795881764-n7rslavmlek3hk30aeemi38mra13so3v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "570795881764-if0tn5fg9mr5kqrv3qj74t1igs5207pa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Sergey-Zhuravel.Push-Auth",
+                "app_store_id": "1242326600"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

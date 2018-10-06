@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Push Auth</string>
+    <string name="access_denied">Доступ запрещен.</string>
+    <string name="auth_success">Авторизация успешна.</string>
+    <string name="change_pin_code">Сменить ПИН-код</string>
+    <string name="check_email">Проверьте свою электронную почту.</string>
+    <string name="create_pin_code">Создать ПИН-код</string>
+    <string name="email_cant_empty">Эл. адрес не может быть пустым.</string>
+    <string name="enable_touch_id_login">Авторизацию отпечатком пальца</string>
+    <string name="enter_pin_code">Введите ПИН-код</string>
+    <string name="error_in_logout">Ошибка при выходе. Попробуйте еще раз.</string>
+    <string name="error_request">Ошибка в запросе</string>
+    <string name="error_try_again">Ошибка. Попробуйте еще раз.</string>
+    <string name="hint_email">Ваш эл. адрес</string>
+    <string name="log_out">ВЫЙТИ</string>
+    <string name="login">ВОЙТИ</string>
+    <string name="new_push">НОВАЯ PUSH-АВТОРИЗАЦИЯ</string>
+    <string name="no">НЕТ</string>
+    <string name="ok">ОК</string>
+    <string name="pin_code">ПИН-код</string>
+    <string name="push_auth">PUSH AUTH</string>
+    <string name="ready_for_push">READY FOR PUSH</string>
+    <string name="request_your_answer">запрашивает Ваш ответ</string>
+    <string name="scan_qr">Скан QR-кода</string>
+    <string name="sent_code_to_you">отправляет Вам КОД</string>
+    <string name="settings">НАСТРОЙКИ</string>
+    <string name="touch_id">Отпечаток пальца</string>
+    <string name="yes">ДА</string>
+</resources>

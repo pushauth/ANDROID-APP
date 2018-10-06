@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Push Auth</string>
+    <string name="hint_email">YOUR EMAIL</string>
+    <string name="login">LOGIN</string>
+    <string name="push_auth">PUSH AUTH</string>
+    <string name="ready_for_push">READY FOR PUSH</string>
+    <string name="new_push">NEW PUSH AUTORIZATION</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="request_your_answer">request your answer</string>
+    <string name="sent_code_to_you">sent CODE to you</string>
+    <string name="ok">OK</string>
+    <string name="settings">SETTINGS</string>
+    <string name="pin_code">PIN-code</string>
+    <string name="change_pin_code">Change PIN-code</string>
+    <string name="touch_id">Fingerprint</string>
+    <string name="enable_touch_id_login">Enable fingerprint login</string>
+    <string name="log_out">Log Out</string>
+    <string name="btn_0" translatable="false">0</string>
+    <string name="btn_9" translatable="false">9</string>
+    <string name="btn_8" translatable="false">8</string>
+    <string name="btn_7" translatable="false">7</string>
+    <string name="btn_6" translatable="false">6</string>
+    <string name="btn_5" translatable="false">5</string>
+    <string name="btn_4" translatable="false">4</string>
+    <string name="btn_3" translatable="false">3</string>
+    <string name="btn_2" translatable="false">2</string>
+    <string name="btn_1" translatable="false">1</string>
+    <string name="create_pin_code">Create PIN-code</string>
+    <string name="enter_pin_code">Enter PIN-code</string>
+    <string name="scan_qr">Scan QR-code</string>
+    <string name="check_email">Please check your email.</string>
+    <string name="error_request">Error in request</string>
+    <string name="auth_success">Authorization successfully.</string>
+    <string name="email_cant_empty">Email can\'t be empty</string>
+    <string name="access_denied">Access denied.</string>
+    <string name="error_try_again">Error. Try again.</string>
+    <string name="error_in_logout">Error in logout. Try again.</string>
+</resources>
